@@ -1,19 +1,5 @@
 # TP1-2024
 
-El objetivo de esta práctica es que comiencen a programar en C, aprovechando lo
-aprendido en Introducción a la Ingeniería en Computación.
-
-## Forma de entrega
-
-* Cada punto debe ser entregado en un archivo independiente.
-* El nombre de cada archivo debe ser `ejercicio` seguido del número de ejercicios más `.c`, de esta manera, el primer ejercicio será entonces `ejercicio1.c`.
-* Cada archivo debe seguir la estructura indicada dentro de `plantilla.c`, la cual debe estar completa con su nombre y usuario de GitHub.
-* Recuerden tener en cuenta las **Cuestiones de Estilo**
-* En ningún caso se aceptará el uso de variables globales. Toda la información necesaria para el funcionamiento de las funciones a desarrollar tienen que ser pasado como argumentos de las mismas.
-* Mantengan separado lo que es entrada, del algoritmo y la salida.
-* Siempre que sea posible, los mensajes de confirmación de `git` deben ser descriptivos, evitando los que son como “cambios”.
-* No olviden documentar las funciones implementadas indicando el propósito de los argumentos y que es lo que retorna.
-
 ## Ejercicios
 
 ### 1. Hola Mundo
